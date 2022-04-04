@@ -16,9 +16,9 @@ summary: Learn what's new in Cloud Volumes Service for AWS.
 Learn what's new in Cloud Volumes Service for AWS.
 
 // tag::whats-new[]
-== 2 Sept 2021
+== 2 September 2021
 
-=== Unable to create new CVS for AWS working environments.
+=== Unable to create new Cloud Volumes Service for AWS working environments.
 
-With the launch of link:https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/concept-fsx-aws.html[Amazon FSx for ONTAP], you can no longer create new CVS for AWS working environments in Cloud Manager. However, if you had previously added CVS for AWS working environments to Cloud Manager, you can continue to create and manage volumes.
+With the launch of link:https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/concept-fsx-aws.html[Amazon FSx for ONTAP], you can no longer create new Cloud Volumes Service for AWS working environments in Cloud Manager. However, if you had previously added Cloud Volumes Service for AWS working environments to Cloud Manager, you can continue to create and manage volumes.
 // end::whats-new[]
